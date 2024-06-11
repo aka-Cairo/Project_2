@@ -109,15 +109,14 @@ The primary objectives of this project are to:
     ```
 
 ## Contributors
+Rajeev Daithankar
+Jacqueline Columbro
+Matthew Harper
 
-- Your Name (your-email@example.com)
-- Collaborator Name (collaborator-email@example.com)
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
-
-We would like to thank [source of the dataset, if any] for providing the dataset used in this analysis.
-
+We would like to thank Kaggle and the author, Rohit Sharma for providing the dataset used in this analysis: Credit Card Eligibility Data: Determining Factors
+Understanding the Dynamics of Credit Card Eligibility: Insights from a Comprehensive Collection.
